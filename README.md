@@ -1,2 +1,3 @@
-# Machin-Learning
-this is mt repor to learning and practicing ML
+## Machin-Learning
+this is my repo to learning and practicing ML
+
